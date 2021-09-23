@@ -1,4 +1,4 @@
-# A/B Testing
+# Statistical Analysis (A/B Testing) 
 Project at Turing College | May 2021
 
 ## Sprint 2: Statistical Tests and Experiments
