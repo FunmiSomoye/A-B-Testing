@@ -3,7 +3,7 @@ Project at Turing College | May 2021
 
 ## Sprint 2: Statistical Tests and Experiments
 The goal is to analyse once run, online Udacity A/B test results! <br/>
-Data is available at https://docs.google.com/spreadsheets/d/1Mu5u9GrybDdska-ljPXyBjTpdZIUev_6i7t4LRDfXM8/edit#gid=0
+Data is available [here](https://docs.google.com/spreadsheets/d/1Mu5u9GrybDdska-ljPXyBjTpdZIUev_6i7t4LRDfXM8/edit#gid=0)
 
 ##### Libraries Used
 ``` Numpy ```
